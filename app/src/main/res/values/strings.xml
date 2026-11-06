@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">打卡助手</string>
+    <string name="app_desc">解锁手机后，按你设定的时间自动跳到打卡软件</string>
+    <string name="channel_service">后台守护</string>
+    <string name="channel_action">打卡提醒</string>
+    <string name="cancel">取消</string>
+    <string name="pick_app">选择要跳转的打卡 App</string>
+    <string name="search_hint">搜索应用名称或包名</string>
+    <string name="empty_apps">没有找到可启动的应用</string>
+</resources>
